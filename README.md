@@ -12,10 +12,10 @@
 <img src="https://gpvc.arturio.dev/Om-Tiwari" alt="Profile views"/>
 
 ## Live and breathe GitHub 
-[![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=Om-Tiwari)]
+![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=Om-Tiwari)
 
 ## LeetCode for lyfe! ([profile](https://leetcode.com/Om_Tiwari/))
-[![Om's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Om_Tiwari)]
+![Om's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Om_Tiwari)
 
 ## My Fav Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Tiwari&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Tiwari&layout=compact)
