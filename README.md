@@ -4,7 +4,7 @@
 [![twitter](https://img.shields.io/twitter/follow/wakatime?label=followers&logo=twitter&color=%23007ec6&style=style)](https://twitter.com/OmTIwari64432)
 [![github](https://img.shields.io/github/followers/Om-Tiwari?logo=github&style=plastic)](https://github.com/Om-Tiwari?tab=followers)
 
-- 🔭 I’m currently working on [https://wakatime.com](https://wakatime.com)
+- 🔭 I’m currently working on Make Data Science Projects and Practicing DSA
 - 💬 Ask me about Python, Data SCience, C++, Web Development and new stuffs Im\'m Always Curious.
 - 📫 How to reach me: [@OmTIwari64432](https://twitter.com/OmTIwari64432) on twitter or [@mrsus](https://www.linkedin.com/in/mrsus/) on LinkedIn
 
