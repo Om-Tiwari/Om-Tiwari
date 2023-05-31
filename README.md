@@ -18,22 +18,23 @@
 [![github](https://img.shields.io/github/followers/Om-Tiwari?logo=github&style=plastic)](https://github.com/Om-Tiwari?tab=followers)
 <img src="https://gpvc.arturio.dev/Om-Tiwari" alt="Profile views"/>
 
-##Skills
+## Skills
 [![](https://img.shields.io/badge/Pandas-3e5e78?style=for-the-badge&logo=pandas&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/numpy-695170?style=for-the-badge&logo=numpy&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/Postgress-a5eb60?style=for-the-badge&logo=opencv_python&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#) &emsp;
+[![](https://img.shields.io/badge/Tailwind-1572B6?style=for-the-badge&logo=tailwind&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/Markdown-494d4c?style=for-the-badge&logo=markdown&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](#) &emsp;
+[![](https://img.shields.io/badge/AWS-430098?style=for-the-badge&logo=aws&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/Bootstrap-732796?style=for-the-badge&logo=bootstrap&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/Git-f02913?style=for-the-badge&logo=git&logoColor=white)](#) &emsp;
 [![](https://img.shields.io/badge/Linux-00000F?style=for-the-badge&logo=linux&logoColor=white)](#) &emsp;
-[![](https://img.shields.io/badge/Hugo-965364?style=for-the-badge&logo=hugo&logoColor=white)](#) &emsp;
+[![](https://img.shields.io/badge/c++-965364?style=for-the-badge&logo=c++&logoColor=white)](#) &emsp;
 
 ## Live and breathe GitHub 
 ![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=Om-Tiwari)
