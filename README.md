@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Make Data Science Projects and Practicing DSA
 - 💬 Ask me about Python, Data Science, C++, Web Development and new stuffs I'm Always Curious.
-- 📫 How to reach me: [🐣](https://om-tiwari.github.io/MyWebsite/) <-- CLICK THIS
+- 📫 How to reach me: 
 <div id="badges">
   <a href="https://www.linkedin.com/in/mrsus/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
