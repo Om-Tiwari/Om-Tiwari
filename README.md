@@ -16,7 +16,7 @@
 [![wakatime](https://wakatime.com/badge/user/c772d43e-ef35-4f8b-adf5-20360b8e9d13.svg)](https://wakatime.com/@c772d43e-ef35-4f8b-adf5-20360b8e9d13)
 [![twitter](https://img.shields.io/twitter/follow/wakatime?label=followers&logo=twitter&color=%23007ec6&style=style)](https://twitter.com/OmTIwari64432)
 [![github](https://img.shields.io/github/followers/Om-Tiwari?logo=github&style=plastic)](https://github.com/Om-Tiwari?tab=followers)
-<img src="https://gpvc.arturio.dev/Om-Tiwari" alt="Profile views"/>
+<!-- <img src="https://gpvc.arturio.dev/Om-Tiwari" alt="Profile views"/> -->
 
 ## Skills
 [![](https://img.shields.io/badge/Pandas-3e5e78?style=for-the-badge&logo=pandas&logoColor=white)](#) &emsp;
