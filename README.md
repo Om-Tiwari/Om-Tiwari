@@ -1,5 +1,5 @@
 ### Hi there 👋
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+name+is+Om+Tiwari;I'm+a+Web+Developer;I'm+Python+Developer;I'm+a+Data+Scientist)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+name+is+Om+Tiwari;I'm+a+Machine+Learning+Engineer;I'm+Python+Developer;I'm+a+Data+Scientist)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on Make Data Science Projects and Practicing DSA
 - 💬 Ask me about Python, Data Science, C++, Web Development and new stuffs I'm Always Curious.
