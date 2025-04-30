@@ -47,46 +47,6 @@
 ![](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## Featured Projects
-
-### 🤖 Instruction Finetuned LLaMA 3.3B
-`Python` `LLaMA3` `Transformers` `Unsloth` `PyTorch` `Groq`
-
-Fine-tuned Llama 3.2 3B model using PEFT techniques (LoRA, gradient checkpointing) with the Unsloth library. Used 'The Tome' dataset with chat templates for enhanced multi-turn conversations.
-
-### 🩺 GraphRAG-based AI Doctor
-`Python` `Llama3` `LangChain` `Neo4j` `Groq` `HuggingFace`
-
-Developed a graph-based medical information system integrating Neo4j with LangChain for efficient knowledge retrieval and context-aware responses using LLMs.
-
-### 🔒 GenAI-based Security System 
-`Gemini-Vision` `FastAPI` `Streamlit` `Arduino`
-
-Real-time security monitoring system that analyzes camera images triggered by pressure plate activation. Deployed Gemini-Vision to detect suspicious activity and alert security personnel.
-
-### 🌿 RAG-based AyurvedicAI
-`Gemini` `LangChain` `Transformers` `ChromaDB` `FastAPI` `React.js`
-
-LLM-powered recommendation system for Ayurvedic medicines based on symptoms and personal health data, including comprehensive dosage information and home remedies.
-
-### 🔍 Multi-Agent System for Market Research
-`Python` `Langgraph` `OpenAI`
-
-Multi-agent framework where specialized AI agents collaborate to perform market research and generate use cases with resource links, automating repetitive cognitive tasks.
-
-## Achievements & Certifications
-
-### 🏆 Awards
-- **First Runner-Up** at Hack The Mountain 4.0 (Virtual Electricity Transfer Platform)
-- **First Prize** at 39th M.P. Young Scientist Congress (Ayurvedic Medicine Recommendation System)
-
-### 📜 Certifications
-- **Reinforcement Learning** (NPTEL) - Nov 2024
-- **Big Data Computing** (NPTEL) - Nov 2024
-- **Neo4j Certified Professional** - Nov 2024
-- **Introduction to Generative AI with Google Cloud** (Udacity) - May 2024
-- **Software Engineer Certificate** (HackerRank) - May 2024
-
 ## GitHub & Coding Stats
 
 <p align="center">
